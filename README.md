@@ -10,6 +10,5 @@ How to Use
 Simply open the project in Unity and load up the dev scene. Tiles can be dragged with the mouse in any direction. Animal
 icons are from [Kenny](https://kenney.nl/assets).
 
-Do what ever you want with the code. I can't promise it's any good as looking back at it is like ugh gross.
 
 ![screenshot](https://i.imgur.com/rI2vbqx.png)
